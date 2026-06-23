@@ -1,0 +1,8 @@
+organism: Lactiplantibacillus species strain 
+contigs: 536
+bases: 3266932
+CDS: 3001
+rRNA: 5
+repeat_region: 1
+tRNA: 75
+tmRNA: 1
